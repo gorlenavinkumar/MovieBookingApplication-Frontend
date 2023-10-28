@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const MOVIE_API_BASE_URL = "http://localhost:8080/api/v1.0/moviebooking";
+const MOVIE_API_BASE_URL = "http://moviebookingapp-be.azurewebsites.net/api/v1.0/moviebooking";
 //const ADMIN_TOKEN = sessionStorage.getItem('token');
 
 class MovieService {
